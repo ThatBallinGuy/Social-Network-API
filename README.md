@@ -3,7 +3,7 @@
 # Social Network API
 
 ## Description
-This project uses inquirer and mysql2 to save to a databse of employees. The app uses inquirer to promp the user with questions about employees and uses mysql2 to populate a dbeaver database with the employees, roles, and departments.
+This project uses MongoDB to create a backend for a social network where users can make friends, post, and react with each other. We use a MVC in order to create the database, and routes to access it.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -17,7 +17,6 @@ This project uses inquirer and mysql2 to save to a databse of employees. The app
 - Clone the repo down to your local machine
 - copy the database schema into your Dbeaver to create the database
 - Install modules by using `npm i` in your terminal
-- Type `npm run seed` in the terminal to seed the database
 - Then youre good to move on to the usage
 
 ## Usage
@@ -50,9 +49,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Links
 
-[Dashboard Link](https://github.com/ThatBallinGuy/E-commerce-Back-End)
+[Dashboard Link](https://github.com/ThatBallinGuy/Social-Network-API)
 
-[Demo Link](https://drive.google.com/file/d/1d3FQsifRMYSTJ3JfPZKYeKALCDvthCsP/view)
+[Demo Link](https://drive.google.com/file/d/1I4sD4ZR2cm6x2aV-kfQO-TbP0rZ-7IEt/view)
 
 ## License
 Licensed under [MIT License](https://opensource.org/licenses/MIT)
